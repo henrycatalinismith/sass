@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "sass-site": "https://github.com/sass/sass-site.git",
+    "dart-sass": "https://github.com/sass/dart-sass.git"
+  }
+}
