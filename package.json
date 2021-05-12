@@ -1,5 +1,6 @@
 {
   "name": "@hendotcat/sass",
+  "license": "MIT",
   "dependencies": {
     "meta": "^2.2.25",
     "meta-search": "^1.0.2",
