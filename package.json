@@ -1,0 +1,8 @@
+{
+  "name": "@hendotcat/sass",
+  "dependencies": {
+    "meta": "^2.2.25",
+    "meta-search": "^1.0.2",
+    "meta-yarn": "^1.1.5"
+  }
+}
